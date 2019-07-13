@@ -1,0 +1,29 @@
+
+mark{
+     background-color: yellow;
+    color:RED
+}
+input[type=text] {
+    display: inline;
+    width: 15em;  
+    height: 3em;
+}
+input[type=password] {
+    display: inline;
+    width: 15em;  height: 3em;
+}
+input[type=submit] {
+    display: inline;
+    width: 11em;  height: 3em;
+border: 1px solid black;
+border-bottom: 2px solid black;
+box-shadow: 3px 3px 1px black;
+}
+input[type=reset] {
+    display: inline;
+    width: 11em;  height: 3em;
+    border: 1px solid black;
+    border-bottom: 2px solid black;
+    box-shadow: 3px 3px 1px black;
+}
+ 

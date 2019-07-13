@@ -1,0 +1,22 @@
+tr,table,td
+{
+margin-right: 50pt;
+border: 1px solid black;
+}
+div 
+{
+margin-right: 50pt;
+}
+input[type=submit] {
+    width: 7em;  height: 3em;
+    display:inline;
+    border: 1px solid black;
+    box-shadow: 2px 2px 1px black;
+}
+input[type=button] {
+    width: 7em;  height: 3em;
+    display:inline;
+    color: black;
+    border: 1px solid black;
+    box-shadow: 2px 2px 1px black;
+}

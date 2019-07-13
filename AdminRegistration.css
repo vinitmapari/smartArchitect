@@ -1,0 +1,24 @@
+
+
+td
+{
+color:white; 
+}
+
+tr
+{
+margin-right: 50pt;
+}
+div 
+{
+margin-right: 50pt;
+}
+input[type=submit] {
+   width: 7em;  height: 3em;
+}
+input[type=reset] {
+    width: 10em;  height: 5em;
+}
+input[type=radio] {
+    display:inline;
+}

@@ -1,0 +1,39 @@
+
+td
+{
+color:black; 
+}
+
+tr
+{
+margin-right: 50pt;
+}
+div 
+{
+margin-right: 50pt;
+}
+input[type=textarea]
+{
+color:black;
+}
+input[type=text]
+{
+color:black;
+}
+input[type=file]
+{
+color:black;
+}
+input[type=date]
+{
+color:black;
+}
+input[type=url]
+{
+    color:black;
+}
+
+input[type=submit] {
+   
+    width: 10em;  height: 5em;
+}

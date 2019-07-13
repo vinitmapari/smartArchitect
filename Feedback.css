@@ -1,0 +1,11 @@
+tr,table,td
+{
+
+border: 1px solid black;
+}
+input[type=submit] {
+    width: 7em;  height: 3em;
+border: 1px solid black;
+border-bottom: 2px solid black;
+box-shadow: 3px 3px 1px black;
+}

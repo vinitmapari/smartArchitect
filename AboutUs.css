@@ -1,0 +1,40 @@
+.imageContainer {
+       width:550px; 
+       height:275px; 
+       color: white;
+       background-size: 100%;
+       background-image: url(images/DSAProject/purple.jpg);
+ }
+ .imageContainer1 {
+       width:350px; 
+       height:150px; 
+       color: white;
+       background-size: 100%;
+       background-image: url(images/DSAProject/Style.png);
+ }
+ .imageContainer2 {
+       width:350px; 
+       height:150px; 
+       color: white;
+       background-size: 100%;
+       background-image: url(images/DSAProject/webelive.png);
+ }
+ .imageContainer3 {
+       width:350px; 
+       height:150px; 
+       color: white;
+       background-size: 100%;
+       background-image: url(images/DSAProject/Style.png);
+ }
+ .imageContainer4 {
+       width:350px; 
+       height:308px; 
+       color: black;
+       background-size: 100%;
+       background-image: url(images/DSAProject/DSAV7.png);
+ }
+ tr,table,td
+{
+
+border-color:black;
+}
